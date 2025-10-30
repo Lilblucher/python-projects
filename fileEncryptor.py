@@ -1,5 +1,11 @@
 #! /bin/env python3
 
+"""
+
+author: clive
+
+"""
+
 from cryptography.fernet import *
 import os
 import subprocess
